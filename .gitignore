@@ -3,3 +3,6 @@
 .vscode/settings.json
 build
 cmake-build*
+src/
+Flash/
+include/
